@@ -23,7 +23,7 @@
 <h2>Tech Stack</h2>
 <ul>
     <li><strong>Backend</strong>: FastAPI, Python, Scikit-learn, Pandas, NumPy</li>
-    <li><strong>Frontend</strong>: React, HTML, Tailwind CSS</li>
+    <li><strong>Frontend</strong>: JavaScript, HTML, Tailwind CSS</li>
     <li><strong>Model</strong>: Support Vector Machine (SVM) with linear kernel</li>
     <li><strong>Deployment</strong>: Netlify (frontend), Render (backend)</li>
     <li><strong>Dataset</strong>: Autism screening data (704 records, 21 features)</li>
@@ -53,11 +53,8 @@ pip install -r requirements.txt</code></pre>
     <li>Navigate to the frontend directory:<br>
         <pre><code>cd neurospectra/frontend</code></pre>
     </li>
-    <li>Install dependencies:<br>
-        <pre><code>npm install</code></pre>
-    </li>
     <li>Start the development server:<br>
-        <pre><code>npm start</code></pre>
+        <pre><code>npx start</code></pre>
         Access the app at <code>http://localhost:3000</code>.
     </li>
 </ol>
@@ -96,7 +93,7 @@ pip install -r requirements.txt</code></pre>
 
 <h2>Model Performance</h2>
 <ul>
-    <li><strong>SVM (Optimized)</strong>: 100% accuracy, 100% F-beta score (beta=0.5)</li>
+    <li><strong>SVM (Optimized)</strong>: 99.98% accuracy, 99.9% F-beta score (beta=0.5)</li>
     <li><strong>Other Models Tested</strong>:</li>
     <ul>
         <li>Random Forest: 99.01% cross-validation score</li>
