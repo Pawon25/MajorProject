@@ -1,5 +1,5 @@
 <h1>NeuroSpectra</h1>
-<img src="https://via.placeholder.com/800x200.png?text=NeuroSpectra+Autism+Detection" alt="NeuroSpectra Banner">
+<img src="[https://via.placeholder.com/800x200.png?text=NeuroSpectra+Autism+Detection](https://regencyhealthcare.in/blog/autism-causes-symptoms-and-how-to-manage/)" alt="NeuroSpectra Banner">
 <p><em>Advancing autism detection through machine learning and neuroscience.</em></p>
 
 <h2>Overview</h2>
